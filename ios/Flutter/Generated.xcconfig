@@ -1,0 +1,9 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/home/hebert/Zinstall/flutter
+FLUTTER_APPLICATION_PATH=/home/hebert/Modelos/flutter/teste_flutter
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_MODE=debug
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/home/hebert/Zinstall/flutter/bin/cache/artifacts/engine/ios
+PREVIEW_DART_2=true
