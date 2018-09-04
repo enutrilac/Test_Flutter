@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             new Text(
-              'Hello World',
+              'E-nutrilac',
               style: TextStyle(
                 fontSize: 50.0,
                 color: Colors.blueAccent,

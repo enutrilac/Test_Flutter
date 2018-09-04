@@ -1,4 +1,4 @@
-#Mon Aug 27 14:12:47 BRT 2018
+#Tue Sep 04 15:30:21 BRT 2018
 base.0=/home/hebert/Modelos/flutter/enutrilac/Test_Flutter/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
