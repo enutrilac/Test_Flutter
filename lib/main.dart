@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:teste_flutter/pages/login_page.dart';
 
 void main() => runApp(new MyApp());
 
@@ -6,15 +7,16 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'Flutter Testes',
+      title: 'Tela de login',
       theme: new ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: new MyHomePage(title: 'Pagina Inicial do Flutter'),
+      home: LoginPage(),
+      //home: new MyHomePage(title: 'Pagina Inicial do Flutter'),
     );
   }
 }
-
+/*
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
 
@@ -68,3 +70,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+*/
